@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "antidraconicevolutiongrinder",
+    "name": "Anti Draconic Evolution Grinder",
+    "description": "Filters out annoying Draconic Evolution grinder death messages from chat.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/TheLongIslander/AntiDraconicEvolutionGrinder.git",
+    "updateUrl": "",
+    "authorList": ["TheLongIslander"],
+    "credits": "Thanks to the Forge and FML devs for making this possible.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
